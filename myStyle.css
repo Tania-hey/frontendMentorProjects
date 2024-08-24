@@ -1,9 +1,9 @@
-.body .html{
+body html{
     margin: 0 !important;
     padding: 0 !important;
     height: 100%;
 }
-.body{
+body{
     background: url("images/abstract_pattern_design_background_2007.jpg")!important;
     background-size: cover;
 }
